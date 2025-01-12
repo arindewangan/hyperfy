@@ -103,4 +103,4 @@ async function worldNetwork(fastify) {
   })
 }
 
-console.log(`running on port ${port}`)
+console.log(`running on port http://localhost:${port}`)
